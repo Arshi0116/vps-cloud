@@ -1,0 +1,62 @@
+.back-btn {
+    text-decoration-line: none;
+    color: inherit;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.66);
+    ;
+    width: 90px;
+    display: block;
+    margin-left: 40px;
+    padding: 10px;
+}
+
+.country-details {
+    display: flex;
+    margin-top: 60px;
+    gap: 70px;
+    margin-left: 40px;
+}
+
+.paras {
+    display: flex;
+    gap: 60px;
+    margin-top: 10px;
+    margin-top: 30px;
+}
+
+.chota-para {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+    flex-wrap: wrap;
+}
+
+.side-para {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    row-gap: 7px;
+}
+
+.border-countries {
+    display: block;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.border-countries a {
+    text-decoration-line: none;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.36);
+    width: 90px;
+    padding: 2px;
+    color: inherit;
+    gap: 20px;
+    flex-direction: column;
+  
+}
